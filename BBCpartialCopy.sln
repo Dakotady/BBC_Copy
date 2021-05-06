@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8BA75AE-A680-4FD4-8F92-6077EB5ECF35}"
+	ProjectSection(SolutionItems) = preProject
+		Main.css = Main.css
+		MainFile.html = MainFile.html
+		normalize.css = normalize.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMGfiles", "IMGfiles", "{B023AB71-5735-405E-9BAC-B6038D3D420B}"
+	ProjectSection(SolutionItems) = preProject
+		IMGfiles\bbc-blocks-dark.png = IMGfiles\bbc-blocks-dark.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B023AB71-5735-405E-9BAC-B6038D3D420B} = {D8BA75AE-A680-4FD4-8F92-6077EB5ECF35}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4E0065-D770-4B07-A756-66A4722C9A66}
+	EndGlobalSection
+EndGlobal
