@@ -1,3 +1,26 @@
-﻿body
-{
+﻿
+body{
+    margin:0px 25% 0px 25%;
+}
+
+
+
+div.MainHeader{
+    margin:1em 20% 1em 20%;
+}
+
+div.MainHeader > a{
+    padding:0px 1em 0px 1em;
+}
+
+div #logo{
+    border-right:4px solid #333333;
+}
+
+
+
+
+div > a{
+    text-decoration: none;
+    color:#333333;
 }

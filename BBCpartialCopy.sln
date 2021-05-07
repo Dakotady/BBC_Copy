@@ -13,6 +13,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMGfiles", "IMGfiles", "{B023AB71-5735-405E-9BAC-B6038D3D420B}"
 	ProjectSection(SolutionItems) = preProject
 		IMGfiles\bbc-blocks-dark.png = IMGfiles\bbc-blocks-dark.png
+		IMGfiles\orb-search-dark.png = IMGfiles\orb-search-dark.png
 	EndProjectSection
 EndProject
 Global
